@@ -1,0 +1,1 @@
+Viết chương trình đọc nội dung từ file text và tạo một danh sách các từ và số lần xuất hiện của chúng trong file đó.

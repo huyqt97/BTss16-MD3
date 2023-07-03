@@ -1,0 +1,7 @@
+
+Viết chương trình đọc nội dung từ file text và đếm số dòng trong file đó.
+Hello World
+Hello World
+Hello World
+Hello World
+Hello World
